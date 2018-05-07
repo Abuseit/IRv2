@@ -1,0 +1,10 @@
+C:\Users\melde\source\repos\IRv2\IRv2\bin\Debug\IRv2.exe.config
+C:\Users\melde\source\repos\IRv2\IRv2\bin\Debug\IRv2.exe
+C:\Users\melde\source\repos\IRv2\IRv2\bin\Debug\IRv2.pdb
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.csprojResolveAssemblyReference.cache
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.Form1.resources
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.Properties.Resources.resources
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.csproj.GenerateResource.cache
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.csproj.CoreCompileInputs.cache
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.exe
+C:\Users\melde\source\repos\IRv2\IRv2\obj\Debug\IRv2.pdb
